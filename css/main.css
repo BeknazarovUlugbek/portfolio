@@ -1,0 +1,35 @@
+.block {
+    background-color: #e8e8e8 ;
+    margin: auto;
+    padding: 2rem;
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+}
+.box{
+    background: #FFFFFF;
+    box-sizing: content-box;
+    padding: 1rem;
+    margin: 1rem;
+    width: 32%;
+}
+.so\'z{
+    padding: 1rem;
+}
+.narx{
+    color: #BF3B46;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+.tugma{
+    background-color: #E5E5E3;
+    width: 200px;
+    height: 50px;
+    text-transform: uppercase;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
